@@ -1,4 +1,4 @@
-**IBM HR Analytics Employee Attrition & Performance Analysis and Prediction**
+# **IBM HR Analytics Employee Attrition & Performance Analysis and Prediction**
 
 **Introduction:**
 This repository contains code for analyzing employee attrition using the 'IBM HR Analytics Employee Attrition & Performance' dataset. The code includes data exploration, visualization, model development, hyperparameter tuning, and model evaluation.
